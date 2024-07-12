@@ -31,3 +31,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=andrew-woosnam&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
+[Andrew Woosnam Resume.pdf](https://github.com/user-attachments/files/16198230/Andrew.Woosnam.Resume.pdf)
+
+
