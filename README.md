@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: he/him
   
-- 🔭 I’m currently working on **various pet projects**
+- 🔭 I’m currently working on Cloud Data Security @ [Cloudflare](https://github.com/cloudflare) 
 
 - 👯 I’m looking to collaborate on [enhancing the Green Software Foundation's Impact Framework](https://github.com/Green-Software-Foundation/if)
 
